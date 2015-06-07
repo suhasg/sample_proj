@@ -22,3 +22,4 @@ development:
 #
 production:
   <<: *default
+  database: my_first_proj
